@@ -11,7 +11,7 @@ I'm a detail-oriented front-end developer focused on delivering engaging, user-f
 - 📍 Based in Ghaziabad, U.P, India
 - 🎓 Master of Computer Applications (MCA), 2025
 - 📧 Email: Chandraram8178@gmail.com
-- 📄 [My Resume (PDF)](https://github.com/Ram-chandra78/myresume/blob/main/Ram%20resume.pdf)
+- 📄 [My Resume (PDF)](https://github.com/Ram-chandra78/myresume/blob/main/mern%20stack.pdf)
 
 ---
 
